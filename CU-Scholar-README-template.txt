@@ -12,7 +12,10 @@ GENERAL INFORMATION
 3. Contact information:
 
 
-4. Date of data collection:
+4. Funding information: [Funder name, funder identifier, award name, award number, etc.]
+
+
+5. Date of data collection:
 
 
 --------------------------
@@ -34,12 +37,13 @@ SHARING/ACCESS INFORMATION
 
 5. Associated article(s):
 
+
 ---------------------
 DATA & FILE OVERVIEW
 ---------------------
 
 
-1. File List:
+1. File and directory list:
 
 
    A. Filename: 
@@ -54,40 +58,22 @@ DATA & FILE OVERVIEW
 2. Relationship between files:       
 
 
-3. Software-specific information: (If specialized software(s) are necessary to view or interpret your data please provide for each (if applicable): software name, version, system requirements, and developer.)
+3. Software-specific information: [If specialized software(s) are necessary to view or interpret your data please provide for each (if applicable): software name, version, system requirements, and developer.]
 
 
 --------------------------
 METHODOLOGICAL INFORMATION
 --------------------------
 
-1. 
+
+1. Description of methods used for collecting, generating, and processing data: 
 
 
-2. Facilities or instruments: (Include PIDs (Persistent Unique Identifiers) such as RRIDs, ARKs, or DOIs if they've been issued to facilities or instruments.)
-
-
------------------------------------------
-DATA-SPECIFIC INFORMATION FOR:[insert filename here]
------------------------------------------
-
-1. Number of variables:
-
-2. Number of cases/rows:
-
-3. Variable List:
-	A. Name: 
-	   Description: 
-
-        B. Name: 
-       	   Description:
-
-4. Data codes (e.g., N/A = Not applicable):
-
+2. Facilities or instruments: [Include PIDs (Persistent Unique Identifiers) such as RRIDs, ARKs, or DOIs if they've been issued to facilities or instruments.]
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR:[insert filename here]
+DATA-SPECIFIC INFORMATION FOR: [insert filename here]
 -----------------------------------------
 
 1. Number of variables:
@@ -105,7 +91,25 @@ DATA-SPECIFIC INFORMATION FOR:[insert filename here]
 
 
 -----------------------------------------
-DATA-SPECIFIC INFORMATION FOR:[insert filename here]
+DATA-SPECIFIC INFORMATION FOR: [insert filename here]
+-----------------------------------------
+
+1. Number of variables:
+
+2. Number of cases/rows:
+
+3. Variable List:
+	A. Name: 
+	   Description: 
+
+        B. Name: 
+       	   Description:
+
+4. Data codes (e.g., N/A = Not applicable):
+
+
+-----------------------------------------
+DATA-SPECIFIC INFORMATION FOR: [insert filename here]
 -----------------------------------------
 
 1. Number of variables:
